@@ -45,7 +45,7 @@
       "postId": 1
     }
   ],
-  "car": [
+  "cars": [
     {
       "id": 1,
       "type": "SUV",
